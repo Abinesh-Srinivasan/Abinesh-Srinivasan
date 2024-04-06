@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="abinesh-srinivasan" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+-  I’m currently learning **React Js**
 
-- 📫 How to reach me **abineshsrinivasan1301@gmail.com**
+-  How to reach me **abineshsrinivasan1301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
