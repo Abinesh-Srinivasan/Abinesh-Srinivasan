@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ba/0e/b8/ba0eb82dbe74fb21925083c2ea7475b4.jpg)
-<h1 align="center">Hi 👋, I'm Abinesh S</h1>
-<h3 align="center">A Passionate Front-End Web Developer</h3>
+<h1 align="center">Hello, I'm Abinesh S</h1>
+<h3 align="center">A Passionate Web Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="abinesh-srinivasan" /> </p>
