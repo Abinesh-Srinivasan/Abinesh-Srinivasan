@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinesh-srinivasan&label=Profile%20views&color=0e75b6&style=flat" alt="abinesh-srinivasan" /> </p>
 
--  I’m currently learning **React Js**
+-  I’m currently learning **Node Js** and **Express Js**
 
 -  How to reach me **abineshsrinivasan1301@gmail.com**
 
